@@ -1,0 +1,16 @@
+.bg-image{
+    background-image: url('../../assets/Images/home-bg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    text-shadow:3px 3px #1e1b13;
+    background-image: url('../../assets/Images/rope.webp');
+    background-repeat: no-repeat;
+    background-size:contain; 
+    background-position: bottom;
+
+}
+
